@@ -1,7 +1,7 @@
 # Dalton Leyian
 # Welcome to My GitHub
 
-![Dalton's Picture](https://github.com/Dalton-47/HOSPITAL-APPOINTMENT-APPLICATION-PROJECT/blob/master/image_one.png)
+![Dalton's Picture](https://github.com/Dalton-47/Dalton-Config/blob/main/PROFILE%20SCREEN.png)
 Hello! My name is Dalton Leyian and this is my GitHub. Here, you will find a collection of my personal and professional projects, including:
 
 - [Project 1](https://github.com/Dalton-47/HOSPITAL-APPOINTMENT-APPLICATION-PROJECT): A Hospital Appointments Scheduler
