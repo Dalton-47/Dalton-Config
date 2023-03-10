@@ -1,7 +1,8 @@
-# Dalton-Config
+# Dalton Leyian
 # Welcome to My GitHub
 
-Hello! My name is [Dalton Leyian] and this is my GitHub. Here, you will find a collection of my personal and professional projects, including:
+![Dalton's Picture](https://github.com/Dalton-47/HOSPITAL-APPOINTMENT-APPLICATION-PROJECT/blob/master/image_one.png)
+Hello! My name is Dalton Leyian and this is my GitHub. Here, you will find a collection of my personal and professional projects, including:
 
 - [Project 1](https://github.com/Dalton-47/HOSPITAL-APPOINTMENT-APPLICATION-PROJECT): A Hospital Appointments Scheduler
 - [Project 2](https://github.com/Dalton-47/RENTAL-MANAGEMENT-DESKTOP-APP): A Rental Collection Desktop applications for managing real estate houses for agents.
